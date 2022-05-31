@@ -1,2 +1,2 @@
-# Projects
-Simple game called "Pig-game"
+# Simple game called "Pig-game"
+
